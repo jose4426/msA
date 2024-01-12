@@ -7,7 +7,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class CassB {
+public class ClassB {
 
     private Long id;
     private String name;
